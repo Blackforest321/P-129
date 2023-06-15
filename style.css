@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+
+h2{
+    width: 95%;
+}
+
+span{
+    color: pink;
+}
+
+canvas
+{
+   background-color: black;
+   box-shadow: 10px 10px 20px pink; 
+   border: pink;
+}
